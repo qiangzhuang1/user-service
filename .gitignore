@@ -1,0 +1,6 @@
+*.iml
+.idea/
+/user-api/target
+/user-provider/target
+/user-api/user-api.iml
+/user-provider/user-provider.iml
